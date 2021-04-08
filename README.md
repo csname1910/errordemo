@@ -3,11 +3,14 @@
 Type:
 
 git clone https://github.com/csname1910/errordemo
+
 cd errordemo
+
 npm install
+
 npm start
 
-You will get this error:
+# You will get this error:
 
 Error: ./node_modules/pdfjs-dist/build/pdf.js 2413:45
 Module parse failed: Unexpected token (2413:45)
