@@ -2,13 +2,13 @@
 
 Type:
 
-git clone https://github.com/csname1910/errordemo
+    git clone https://github.com/csname1910/errordemo
 
-cd errordemo
+    cd errordemo
 
-npm install
+    npm install
 
-npm start
+    npm start
 
 # You will get this error:
 
